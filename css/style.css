@@ -1,0 +1,55 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.bg-header{
+    background-color: rgb(255, 255, 244,1);
+}
+.bg-main{
+    background-color:rgba(255, 255, 244, 1)
+}
+#h1{
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+
+    color: #363958;
+}
+#moon{
+    color: rgba(118, 194, 126, 1);
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+}
+.font-p{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: rgba(62, 62, 62, 1);
+
+}
+.buy-now-btn{
+    width: 170px;
+    height: 60px;
+    background-color: #363958fb;
+    color:#fff;
+    border:none;
+    border-radius: 8px;
+    padding:10px 10px;
+}
+#p{
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 20px;
+}
+.rectangle{
+    left: 135px;
+    background: #FFFFFF;
+    border:none;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+.rectangle-img{
+    width:78px;
+    height:82px;
+}
